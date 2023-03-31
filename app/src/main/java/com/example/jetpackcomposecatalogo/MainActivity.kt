@@ -12,6 +12,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.example.jetpackcomposecatalogo.ui.animation.MyCrossFadeAnimation
 import com.example.jetpackcomposecatalogo.ui.navigation.*
 import com.example.jetpackcomposecatalogo.ui.navigation.model.Route
 import com.example.jetpackcomposecatalogo.ui.theme.JetpackComposeCatalogoTheme
